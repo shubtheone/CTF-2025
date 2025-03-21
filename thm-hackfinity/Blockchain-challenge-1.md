@@ -3,10 +3,12 @@
 ### ✅ **Step 1: Setting Up Environment Variables**  
 First, we set up the necessary environment variables to interact with the blockchain:  
 
-```export RPC_URL=http://10.10.109.18:8545  
+```
+export RPC_URL=http://10.10.109.18:8545  
 export API_URL=http://10.10.109.18  
 export PRIVATE_KEY=0xd82c93cb341c01fbc08feffb5c30a5b1a3f521c9811977a7f28353dab39824b0  
-export CONTRACT_ADDRESS=0xf22cB0Ca047e88AC996c17683Cee290518093574```    
+export CONTRACT_ADDRESS=0xf22cB0Ca047e88AC996c17683Cee290518093574
+```    
 
 🔧 This configuration allows us to interact with the remote blockchain contract.
 
