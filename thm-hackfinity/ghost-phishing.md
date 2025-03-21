@@ -1,4 +1,4 @@
-# 🎯 **Challenge Writeup: Word File Payload and Reverse Shell Access** 💻🔗  
+# 🎯 **Challenge Writeup: Word File Payload and Reverse Shell Access**   
 
 This challenge was both fun and frustrating, making me bang my head against the wall multiple times! 🧱
 
